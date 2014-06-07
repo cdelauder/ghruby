@@ -1,4 +1,8 @@
+# encoding: utf-8
+
 require "ghruby/version"
+require "json"
+require "io/console"
 
 module Ghruby
 
