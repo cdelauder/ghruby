@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["cdelauder@gmail.com"]
   spec.description   = %q{Create a GitHub repo from the command line}
   spec.summary       = %q{Create a Github repo from the command line}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/cdelauder/ghruby"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
